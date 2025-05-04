@@ -43,7 +43,7 @@ def handle_message(message):
 
 # === Раздел "Продукция" ===
 def send_products(message):
-    bot.send_message(message.chat.id, "Вот наша продукция!")
+    bot.send_message(message.chat.id, "Вот наша продукция! https://t.me/tesrttiks_bot/socks_shop")
     # === ЗДЕСЬ ВСТАВЬ ССЫЛКУ НА МИНИ-ПРИЛОЖЕНИЕ И КАРТИНКИ НОСКОВ ===
 
     # Пример отправки фото носков
